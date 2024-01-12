@@ -1,0 +1,105 @@
+.homepage{
+    height: 800px;
+    width: 100%;
+    }
+
+.login{
+    position: absolute;
+    height: 40px;
+    width: 70px;
+    margin-top: -480px;
+    margin-left: 1100px;
+    border-radius: 10px;
+    color:red;
+    font-weight: 800;
+}
+
+.create{
+    position: absolute;
+    height: 40px;
+    margin-top: -480px;
+    margin-left: 1175px;
+    border-radius: 10px;
+    color:red;
+    font-weight: 800;
+}
+ 
+.lo{
+    position:absolute;
+    font-size: 60px;
+    font-weight: bold;
+    color:red;
+    margin-top: -570px;
+    margin-left: 1200px;
+    background-color:white;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    text-align: center;    
+} 
+
+.find-res{
+    position: absolute;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 100px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 450px;
+    margin-top: -430px;
+    color:aquamarine;
+    
+}
+
+
+
+.list-box1{
+    position: absolute;
+    margin-left:580px;
+    margin-top:-280px;
+    height: 80px;
+    width: 600px;
+    border-radius: 10px;
+
+}
+
+.search-box{
+    position: absolute;
+    margin-left: 1250px;
+    margin-top:-280px;
+    height: 80px;
+    width: 600px;
+    border-radius: 10px;
+    
+    padding:9px 4px 9px 40px;
+}
+
+.suggestion{
+    position: absolute;
+    margin-top: -180px;
+    margin-left: 1320px;
+    background-color: white;
+    width: 400px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.res_result{
+    list-style: none;
+}
+
+.sugg{
+    position: absolute;
+    margin-top: -160px;
+    margin-left: 1300px;
+    background-color: white;
+    width: 400px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.res{
+    list-style: none;
+    margin-left: 5px;
+
+}
+
